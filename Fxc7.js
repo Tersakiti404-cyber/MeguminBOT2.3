@@ -135,7 +135,7 @@ async function starts() {
 				} catch {
 					ppimg = 'https://i0.wp.com/www.gambarunik.id/wp-content/uploads/2019/06/Top-Gambar-Foto-Profil-Kosong-Lucu-Tergokil-.jpg'
 				}
-				teks = `Sayonara @${num.split('@')[0]} IRENE MISS YOU:D`
+				teks = `Sayonara @${num.split('@')[0]} 𝙼𝚎𝚐𝚞𝚖𝚒𝚗 𝙱𝙾𝚃 Miss You :D`
 				let buff = await getBuffer(ppimg)
 				client.sendMessage(mdata.id, buff, MessageType.image, {caption: teks, contextInfo: {"mentionedJid": [num]}})
 			}
