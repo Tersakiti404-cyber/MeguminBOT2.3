@@ -68,20 +68,20 @@ const { wait, simih, getBuffer, h2k, generateMessageID, getGroupAdmins, getRando
 
 const vcard = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n'
-            + 'FN:Farhan\n'
-            + 'ORG:Owner FXC7;\n'
-            + 'TEL;type=CELL;type=VOICE;waid=628311800241:+62 831-1800-241\n'
+            + 'FN:Fajar Alfarizi\n'
+            + 'ORG:Owner 𝙼𝚎𝚐𝚞𝚖𝚒𝚗 𝙱𝙾𝚃;\n'
+            + 'TEL;type=CELL;type=VOICE;waid=6281333782061:+62 813-3378-2061\n'
             + 'END:VCARD'
 
 prefix = "!"
-name = "~ IRIENE BOT"
-rdaftar = "TERIMA KASIH TELAH DAFTAR MENJADI TEMEN IRIENEBOT😁"
-rmenu = "HAI TEMEN IRIENEBOT👋 JANGAN LUPA DONASI YAA:)"
+name = "~ 𝙼𝚎𝚐𝚞𝚖𝚒𝚗 𝙱𝙾𝚃"
+rdaftar = "TERIMA KASIH TELAH DAFTAR MENJADI TEMEN 𝙼𝚎𝚐𝚞𝚖𝚒𝚗 𝙱𝙾𝚃 😁"
+rmenu = "HAI TEMEN 𝙼𝚎𝚐𝚞𝚖𝚒𝚗 𝙱𝙾𝚃 👋 JANGAN LUPA DONASI YAA:)"
 botinfo = "UNTUK INVITE BOT SILAHKAN DONASI DULU YAA:)"
 limitt = 10
 memberLimit = 2
 ban = []
-premium = ["628311800241@s.whatsapp.net"]
+premium = ["6281333782061@s.whatsapp.net"]
 
 function kyun(seconds){
   function pad(s){
@@ -163,8 +163,8 @@ async function starts() {
 			const content = JSON.stringify(mek.message)
 			const from = mek.key.remoteJid
 			const type = Object.keys(mek.message)[0]
-			const FarhanGans = ["0@s.whatsapp.net"] // ubah aja gapapa
-			const farhan = mek.message.conversation
+			const FajarGans = ["0@s.whatsapp.net"] // ubah aja gapapa
+			const fajar = mek.message.conversation
 			const insom = from.endsWith('@g.us')
 			const nameReq = insom ? mek.participant : mek.key.remoteJid
 			pushname2 = client.contacts[nameReq] != undefined ? client.contacts[nameReq].vname || client.contacts[nameReq].notify : undefined
@@ -205,7 +205,7 @@ async function starts() {
 			}
 
 			const botNumber = client.user.jid
-			const ownerNumber = ["628311800241@s.whatsapp.net"] // owner number ubah aja
+			const ownerNumber = ["6281333782061@s.whatsapp.net"] // owner number ubah aja
 			const isGroup = from.endsWith('@g.us')
 			const sender = isGroup ? mek.participant : mek.key.remoteJid
 			const groupMetadata = isGroup ? await client.groupMetadata(from) : ''
@@ -364,10 +364,10 @@ async function starts() {
                 var yy = tgl.getYear()
                 var year = (yy < 1000) ? yy + 1900 : yy;
                 const tanggal = `${thisDay}, ${day} - ${myMonths[bulan]} - ${year}`
-					await costum(help(prefix, instagram, yt, name, pushname2, user, limitt, uptime, jam, tanggal), text, FarhanGans, rmenu)
+					await costum(help(prefix, instagram, yt, name, pushname2, user, limitt, uptime, jam, tanggal), text, FajarGans, rmenu)
     				break 
     			case 'infobot':
-    				await costum(bottt(prefix), text, FarhanGans, botinfo)
+    				await costum(bottt(prefix), text, FajarGans, botinfo)
     				break
     			case 'profile':
     				client.updatePresence(from, Presence.composing)
@@ -399,7 +399,7 @@ async function starts() {
 					me = client.user
 					user.push(sender)
 					uptime = process.uptime()
-					teks = `➽ *Nama Bot* : ${me.name}\n➽ *Owner Bot* : @${ownerNumber}\n➽ *prefix* : | ${prefix} |\n➽ *Total Block* : ${blocked.length}\n➽ *Aktif Sejak* : ${kyun(uptime)}\n\n➽ *Total Pengguna* : ${user.length} User\n➽ *Instagram* : https://www.instagram.com/_farhan_xcode7\n➽ *Special Thanks To* :\n\n➽ Allah SWT \n➽ MhankBarBar\n➽ Nurutomo\n➽ Monurios`
+					teks = `➽ *Nama Bot* : ${me.name}\n➽ *Owner Bot* : @${ownerNumber}\n➽ *prefix* : | ${prefix} |\n➽ *Total Block* : ${blocked.length}\n➽ *Aktif Sejak* : ${kyun(uptime)}\n\n➽ *Total Pengguna* : ${user.length} User\n➽ *Instagram* : https://www.instagram.com/mhmdfjralfarizi_\n➽ *Special Thanks To* :\n\n➽ Allah SWT \n➽ MhankBarBar\n➽ Nurutomo\n➽ Monurios`
 					buffer = await getBuffer(me.imgUrl)
 					client.sendMessage(from, buffer, image, {quoted: mek, caption: teks, contextInfo:{mentionedJid: [me.jid]}})
 					break 
@@ -1073,7 +1073,7 @@ async function starts() {
                          text: teks1,
                          contextInfo: {mentionedJid: [nomor]},
                      }
-                    client.sendMessage('628311800241@s.whatsapp.net', options, text, {quoted: mek})
+                    client.sendMessage('6281333782061@s.whatsapp.net', options, text, {quoted: mek})
                     reply('Masalah telah di laporkan ke owner BOT, laporan palsu/main2 tidak akan ditanggapi.')
                     break
                 case 'request':
@@ -1089,7 +1089,7 @@ async function starts() {
                          text: ress,
                          contextInfo: {mentionedJid: [nomor]},
                      }
-                    client.sendMessage('628311800241@s.whatsapp.net', options, text, {quoted: mek})
+                    client.sendMessage('6281333782061@s.whatsapp.net', options, text, {quoted: mek})
                     reply('REQUEST ANDA TELAH SAMPAI ke owner BOT, Requests palsu/main2 tidak akan ditanggapi.')
                     break
 				case 'memeindo':
