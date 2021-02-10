@@ -53,7 +53,7 @@ https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB
 ͏͏͏͏͏͏͏͏͏͏͏͏͏͏╭──────「 *MEDIA DOWNLOADER* 」
 ┴
 │➻ *${prefix}tiktokstalk username*
-│➻ *${prefix}igstalk _farhan_xcode7*
+│➻ *${prefix}igstalk mhmdfjralfarizi_*
 │➻ *${prefix}instavid link valid*
 │➻ *${prefix}instaimg link valid*
 │➻ *${prefix}instastory username*
@@ -73,19 +73,19 @@ https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB
 ┴
 │➻ *${prefix}quotemaker tx/wtrmk/tema*
 │➻ *${prefix}nulis nama/kelas/text*
-│➻ *${prefix}croman FXC7 dan Friend*
-│➻ *${prefix}slide Fxc7 BOT WA*
+│➻ *${prefix}croman 𝙼𝚎𝚐𝚞𝚖𝚒𝚗 dan Friend*
+│➻ *${prefix}slide 𝙼𝚎𝚐𝚞𝚖𝚒𝚗 𝙱𝙾𝚃 WA*
 ├───────────────────
-│➻ *${prefix}tahta FXC7*
-│➻ *${prefix}cglass FXC7*
-│➻ *${prefix}cstyle FXC7*
-│➻ *${prefix}cgame FXC7*
-│➻ *${prefix}clove FXC7*
-│➻ *${prefix}cparty FXC7*
-│➻ *${prefix}csky FXC7*
+│➻ *${prefix}tahta 𝙼𝚎𝚐𝚞𝚖𝚒𝚗 𝙱𝙾𝚃*
+│➻ *${prefix}cglass 𝙼𝚎𝚐𝚞𝚖𝚒𝚗 𝙱𝙾𝚃*
+│➻ *${prefix}cstyle 𝙼𝚎𝚐𝚞𝚖𝚒𝚗 𝙱𝙾𝚃*
+│➻ *${prefix}cgame 𝙼𝚎𝚐𝚞𝚖𝚒𝚗 𝙱𝙾𝚃*
+│➻ *${prefix}clove 𝙼𝚎𝚐𝚞𝚖𝚒𝚗 𝙱𝙾𝚃*
+│➻ *${prefix}cparty 𝙼𝚎𝚐𝚞𝚖𝚒𝚗 𝙱𝙾𝚃*
+│➻ *${prefix}csky 𝙼𝚎𝚐𝚞𝚖𝚒𝚗 𝙱𝙾𝚃*
 │➻ *${prefix}tts id Haii*
-│➻ *${prefix}ttp Fxc7*
-│➻ *${prefix}cpaper Fxc7*
+│➻ *${prefix}ttp 𝙼𝚎𝚐𝚞𝚖𝚒𝚗 𝙱𝙾𝚃*
+│➻ *${prefix}cpaper 𝙼𝚎𝚐𝚞𝚖𝚒𝚗 𝙱𝙾𝚃*
 ├───────────────────
 │➻ *${prefix}stiker*
 │➻ *${prefix}gifstiker*
@@ -325,11 +325,11 @@ https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB
 
 ╭─────「 *SUPPORT ${name}* 」
 ┴
-│➲ *O BOT*
-│➲ *M. HADI FIRMANSYA*
-│➲ *DELIA AULIA*
-│➲ *KEVIN DAVID*
-│➲ *MY TEAM FXC7 BOT*
+│➲ *𝙼𝚎𝚐𝚞𝚖𝚒𝚗 𝙱𝙾𝚃*
+│➲ *M. Fajar Alfarizi*
+│➲ *Debby*
+│➲ *Farhan*
+│➲ *MY TEAM BHI OFFICIAL*
 │➲ *CONTENT CREATOR BOT WHATSAPP*
 ┬
 ╰────────────────────────`
@@ -363,8 +363,8 @@ const donasi = (name) => {
 	return `       
 ╭─────「 *DONASI SEIKHLASNYA* 」
 ┴
-│√ *PULSA: 08311800241*
-│√ *OVO : 08311800241*
+│√ *PULSA: 081333782061*
+│√ *OVO : 081333782061*
 │
 │\`\`\`Pulsa\`\`\`
 │*15k Invite Bot Ke Grup selama 1 bulan*
