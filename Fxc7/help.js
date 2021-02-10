@@ -191,16 +191,16 @@ https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB
 
 ╭──────「 *OTHERS FUN & GAME* 」
 ┴
-│➻ *${prefix}jarak Banyuwangi/Surabaya*
+│➻ *${prefix}jarak Bojonegoro/Kalimantan*
 │➻ *${prefix}translate en/Apa kabar?*
-│➻ *${prefix}pasangan Farhan/Iriene*
-│➻ *${prefix}gantengcek Farhan*
-│➻ *${prefix}cantikcek Iriene*
-│➻ *${prefix}artinama Farhan*
-│➻ *${prefix}persengay Topan*
-│➻ *${prefix}pbucin Farhan*
-│➻ *${prefix}bpfont Farhan*
-│➻ *${prefix}textstyle FXC7*
+│➻ *${prefix}pasangan Fajar/Debby*
+│➻ *${prefix}gantengcek Fajar*
+│➻ *${prefix}cantikcek Debby*
+│➻ *${prefix}artinama Fajar*
+│➻ *${prefix}persengay Arif*
+│➻ *${prefix}pbucin Fajar*
+│➻ *${prefix}bpfont Fajar*
+│➻ *${prefix}textstyle 𝙼𝚎𝚐𝚞𝚖𝚒𝚗 𝙱𝙾𝚃*
 │➻ *${prefix}jadwaltv antv*
 │➻ *${prefix}lirik melukis senja*
 │➻ *${prefix}chord Melukis senja*
